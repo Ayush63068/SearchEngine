@@ -1,6 +1,6 @@
 Search Engine Web Application
 🚀 Description:
-Developed a robust and efficient search engine web application using Java, HTML, CSS, and JavaScript. The application allows users to search and retrieve relevant information from a vast database with speed and accuracy.
+Developed a robust and efficient search engine web application using Java, HTML, CSS,JSP(Java Server Pages),Java Servlets,Mysql,DBMS and DSA . The application allows users to search and retrieve relevant information from a vast database with speed and accuracy.
 
 💡 Key Features:
 
@@ -9,7 +9,7 @@ User-Friendly Interface: Designed an intuitive and responsive user interface for
 Scalability: Engineered the application to handle large datasets, ensuring optimal performance even with extensive search queries.
 Real-time Results: Implemented real-time indexing and result updates, providing users with the most up-to-date information.
 🔧 Technologies Used:
-Java | HTML | CSS | JavaScript | [Any other relevant technologies or frameworks]
+Java | HTML | CSS |JSP(Java Server Pages)| Java Servlets| Mysql| DBMS|DSA.
 
 👩‍💻 My Role:
 As the lead developer, I was responsible for the end-to-end development of the application, from conceptualization to deployment. Collaborated with a cross-functional team to ensure all components integrated seamlessly.
